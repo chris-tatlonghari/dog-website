@@ -1,0 +1,7 @@
+C:\Users\Admin\Dev\C#\dog-website\dog-website\obj\Release\net6.0\PubTmp\Out\dog-website.exe
+C:\Users\Admin\Dev\C#\dog-website\dog-website\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Admin\Dev\C#\dog-website\dog-website\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Admin\Dev\C#\dog-website\dog-website\obj\Release\net6.0\PubTmp\Out\dog-website.dll
+C:\Users\Admin\Dev\C#\dog-website\dog-website\obj\Release\net6.0\PubTmp\Out\dog-website.deps.json
+C:\Users\Admin\Dev\C#\dog-website\dog-website\obj\Release\net6.0\PubTmp\Out\dog-website.runtimeconfig.json
+C:\Users\Admin\Dev\C#\dog-website\dog-website\obj\Release\net6.0\PubTmp\Out\dog-website.pdb
